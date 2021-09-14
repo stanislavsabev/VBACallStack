@@ -1,2 +1,2 @@
 # VBACallStack
-VBA Classes to manage a call stack
+VBA Classes to implement a call stack in your project
